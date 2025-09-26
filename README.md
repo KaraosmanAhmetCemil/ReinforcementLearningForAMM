@@ -71,15 +71,7 @@ The dataset includes OHLC values, volume, and derived technical indicators (vola
 - PyTorch / PyTorch Lightning
 - NumPy, Pandas, Matplotlib, Scikit-learn
 - Gymnasium (OpenAI Gym compatible)
-
-### Setup
-```bash
-git clone https://github.com/KaraosmanAhmetCemil/ReinforcementLearningForAMM.git
-cd ReinforcementLearningForAMM
-pip install -r requirements.txt
-```
-
----
+  
 
 ## 🚀 Usage
 
